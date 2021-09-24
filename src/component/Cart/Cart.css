@@ -1,0 +1,17 @@
+.cart-element {
+  text-align: center;
+  padding: 20px;
+}
+.border-style {
+  border-bottom: 1px solid gray;
+  padding: 10px;
+  margin: 20px;
+}
+.submit-btn {
+  width: 250px;
+  background-color: goldenrod;
+  border: 1px solid rgb(46, 138, 175);
+  border-radius: 5px;
+  padding: 5px;
+  margin-left: 25%;
+}

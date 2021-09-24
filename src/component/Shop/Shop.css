@@ -1,0 +1,16 @@
+.search-container {
+  background-color: rgba(0, 0, 0, 0.835);
+  line-height: 40px;
+  text-align: center;
+}
+.search-container input {
+  width: 75%;
+  padding: 10px;
+}
+.main-product {
+  display: grid;
+  grid-template-columns: 3fr 1fr;
+}
+.Order-summary {
+  box-shadow: 10px 20px 30px gray;
+}

@@ -1,0 +1,25 @@
+.main-container {
+  display: flex;
+  border-bottom: 1px solid gray;
+  padding: 10px;
+}
+.product-img {
+  width: 500px;
+  padding-left: 100px;
+}
+.product-container {
+  width: 100%;
+}
+.btn {
+  width: 250px;
+  background-color: goldenrod;
+  border: 1px solid rgb(46, 138, 175);
+  border-radius: 5px;
+  padding: 5px;
+}
+.empty-icon {
+  color: tomato;
+}
+.full-icon {
+  color: tomato;
+}
